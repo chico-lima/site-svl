@@ -21,7 +21,7 @@ main {
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background-color: #6e0707;
+  background-color: #000000;
 } 
 
 .nav_btn button { 
@@ -42,7 +42,7 @@ main {
 
 .nav_links nav {
   display: flex;
-  justify-content: cent;
+  justify-content: center;
   flex-wrap: wrap;
 }
  
